@@ -3,10 +3,13 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": null
+      "value": "mike"
     },
     "dnsNameForPublicIP": {
-      "value": null
+      "value": "mjltestdns"
+    },
+    "adminPassword": {
+      "value": "W3lcomeWorld!@"
     }
   }
 }
